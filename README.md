@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐ I’m currently Working on WebDev.<br>🌱 I’m currently learning Backend and DSA<br>
+⭐ I’m currently Working on WebDev.<br>🌱 I’m currently learning Backend and DSA<br>.<br>🌱 I’m currently Python
 
 
 ## 🌐 Socials:
