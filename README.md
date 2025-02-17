@@ -1,5 +1,6 @@
 # 💫 About Me:
-⭐ I’m currently Working on WebDev.<br>🌱 I’m currently learning Backend and DSA<br>🌱 I’m currently Python
+## Hey there , I am Trideep who loves to convert the imagination into reality 
+⭐ I’m currently Working on WebDev.<br>🌱 I’m currently learning Backend and DSA<br>🌱 I’m currently Learning Python
 
 
 ## 🌐 Socials:
